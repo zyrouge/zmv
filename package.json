@@ -1,0 +1,29 @@
+{
+  "name": "zmv",
+  "version": "0.0.1",
+  "description": "ZMV Bot + Web.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "quick.db": "^7.0.0-b22",
+    "path": "^0.12.7",
+    "morgan": "^1.9.1",
+    "ejs": "^2.7.1"
+    },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
